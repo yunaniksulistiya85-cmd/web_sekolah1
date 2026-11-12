@@ -142,8 +142,8 @@
                 <div class="card">
                     <div class="card-body">
                         <h1>Sambutan Kepala Sekolah</h1>
-                        <img src="https://i.ytimg.com/vi/XjmNoA9cb6s/maxresdefault.jpg" width="250"
-                            class="float-start me-3 mb-2" alt="...">
+                        <img src="https://indonetizen.id/wp-content/uploads/2023/08/136f8584-11c0-449d-b4ad-badbb7bb35c7.jpeg"
+                            width="250" class="float-start me-3 mb-2" alt="...">
                         <b>
                             <h4>Asalamu'alaikum Wr.Wb.</h4>
                         </b>
@@ -327,93 +327,101 @@
 
 
 
-            <div class="container">
-                <div class="col-9">
-                    <h4 class="border-start border-primary border-4 ps-3 text-secondary fw-bold">
-                        Kegiatan Terbaru</h4>
+            <div class="container-fluid px-3 mt-3">
+                <div class="row mb-3">
+                    <div class="col-12">
+                        <h4 class="border-start border-primary border-4 ps-3 text-secondary fw-bold">
+                            Kegiatan Terbaru</h4>
+                    </div>
                 </div>
-                <div class="row align-items-start">
-                    <div class="card" style="width: 18rem;">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19foifeYzV0n3lwNfQS31_SWd13xYLrBJBHpLZrF_pw&s"
-                            class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Upacara Hari Pendidikan Nasional</h5>
-                            <small class="text-muted">
-                                📅 27 Mei 2025
-                            </small>
-                            <p class="card-text">Peringatan Hari Pendidikan Nasional (Hardiknas) di SMK
-                                PGRI Wlingi
-                                dilaksanakan melalui upacara bendera khidmat yang diikuti oleh seluruh
-                                siswa, guru, dan
-                                staf di lapangan sekolah. Momen tahunan setiap tanggal 2 Mei ini menjadi
-                                wadah bagi
-                                warga Hammer School untuk menghargai jasa para pahlawan pendidikan yang
-                                telah
-                                memperjuangkan hak belajar bangsa. Melalui amanat pembina upacara,
-                                seluruh siswa.</p>
+
+                <div class="row g-3">
+
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="card h-100">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19foifeYzV0n3lwNfQS31_SWd13xYLrBJBHpLZrF_pw&s"
+                                class="card-img-top" alt="..." style="width: 100%; height: auto; object-fit: contain;">
+                            <div class="card-body">
+                                <h5 class="card-title">Upacara Hari Pendidikan Nasional</h5>
+                                <small class="text-muted">📅 27 Mei 2025</small>
+                                <p class="card-text">Peringatan Hari Pendidikan Nasional (Hardiknas) di SMK
+                                    PGRI Wlingi
+                                    dilaksanakan melalui upacara bendera khidmat yang diikuti oleh seluruh
+                                    siswa, guru, dan
+                                    staf di lapangan sekolah. Momen tahunan setiap tanggal 2 Mei ini menjadi
+                                    wadah bagi
+                                    warga Hammer School untuk menghargai jasa para pahlawan pendidikan yang
+                                    telah
+                                    memperjuangkan hak belajar bangsa. Melalui amanat pembina upacara,
+                                    seluruh siswa.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEbbf5wbGfoPjeJSxs_koojHCsR58RJuk2V4aa3Yc4Q&s=10"
-                            class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Kegiatan Ekstrakurikuler Pramuka</h5>
-                            <small class="text-muted">
-                                📅 28 Apr 2025
-                            </small>
-                            <p class="card-text">Ekstrakurikuler Pramuka di SMK PGRI Wlingi menjadi
-                                salah satu wadah
-                                utama pembentukan karakter siswa melalui berbagai program kepanduan
-                                aktif yang dinaungi
-                                oleh Gugus Depan (Gudep) 14.041–14.042 Ambalan Jendral Sudirman - Dewi
-                                Sartika. Kegiatan
-                                ini rutin menyelenggarakan agenda tahunan penting seperti Penerimaan
-                                Tamu Ambalan (PTA)
-                                bagi siswa baru di Bumi Perkemahan Puspa Jagad serta Diklat Bantara.</p>
+
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="card h-100">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAEbbf5wbGfoPjeJSxs_koojHCsR58RJuk2V4aa3Yc4Q&s=10"
+                                class="card-img-top" alt="..." style="width: 100%; height: auto; object-fit: contain;">
+                            <div class="card-body">
+                                <h5 class="card-title">Kegiatan Ekstrakurikuler Pramuka</h5>
+                                <small class="text-muted">📅 28 Apr 2025</small>
+                                <p class="card-text">Ekstrakurikuler Pramuka di SMK PGRI Wlingi menjadi
+                                    salah satu wadah
+                                    utama pembentukan karakter siswa melalui berbagai program kepanduan
+                                    aktif yang dinaungi
+                                    oleh Gugus Depan (Gudep) 14.041–14.042 Ambalan Jendral Sudirman - Dewi
+                                    Sartika. Kegiatan
+                                    ini rutin menyelenggarakan agenda tahunan penting seperti Penerimaan
+                                    Tamu Ambalan (PTA)
+                                    bagi siswa baru di Bumi Perkemahan Puspa Jagad serta Diklat Bantara.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPuCUtEOF6v4KkwCXrU3PSlnT4k8fFDFGtAXWxi4wmA&s=10"
-                            class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Lomba Seni dan Olahraga Antarkelas</h5>
-                            <small class="text-muted">
-                                📅 20 Apr 2025
-                            </small>
-                            <p class="card-text">SMK PGRI Wlingi aktif mewadahi bakat siswa di bidang
-                                seni dan olahraga
-                                melalui berbagai kegiatan ekstrakurikuler serta fasilitas yang memadai.
-                                Pada bidang
-                                seni, sekolah ini memiliki ekskul unggulan seperti Karawitan Hammer
-                                Laras Madya, Hadroh,
-                                Film Club, serta kegiatan kunjungan edukatif seni ke luar kota.
-                                Sementara di bidang
-                                olahraga, siswa dapat mengasah prestasi dan kebugaran fisik melalui tim
-                                sepak
-                                bola,futsal.</p>
+
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="card h-100">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPuCUtEOF6v4KkwCXrU3PSlnT4k8fFDFGtAXWxi4wmA&s=10"
+                                class="card-img-top" alt="..." style="width: 100%; height: auto; object-fit: contain;">
+                            <div class="card-body">
+                                <h5 class="card-title">Lomba Seni dan Olahraga Antarkelas</h5>
+                                <small class="text-muted">📅 20 Apr 2025</small>
+                                <p class="card-text">SMK PGRI Wlingi aktif mewadahi bakat siswa di bidang
+                                    seni dan olahraga
+                                    melalui berbagai kegiatan ekstrakurikuler serta fasilitas yang memadai.
+                                    Pada bidang
+                                    seni, sekolah ini memiliki ekskul unggulan seperti Karawitan Hammer
+                                    Laras Madya, Hadroh,
+                                    Film Club, serta kegiatan kunjungan edukatif seni ke luar kota.
+                                    Sementara di bidang
+                                    olahraga, siswa dapat mengasah prestasi dan kebugaran fisik melalui tim
+                                    sepak
+                                    bola,futsal.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ704OfacapS42IQlLnCCyUP-4x9Cc-ejExW4-jL9m8OQ&s=10"
-                            class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Kunjungan Edukasi ke Museum</h5>
-                            <small class="text-muted">
-                                📅 15 Apr 2025
-                            </small>
-                            <p class="card-text">Hingga saat ini, tidak ada catatan resmi mengenai
-                                agenda kunjungan
-                                edukasi dari SMK PGRI Wlingi ke Museum Kata (seperti Museum Kata Andrea
-                                Hirata di
-                                Belitung), karena kegiatan studi kenal alam dan peninjauan seni sekolah
-                                tersebut
-                                biasanya difokuskan ke destinasi budaya dan sejarah regional seperti
-                                Museum Penataran di
-                                Blitar, Museum Ullen Sentalu dan pameran ARTJOG di Yogyakarta, serta
-                                Museum Angkut di
-                                Malang.</p>
+
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="card h-100">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ704OfacapS42IQlLnCCyUP-4x9Cc-ejExW4-jL9m8OQ&s=10"
+                                class="card-img-top" alt="..." style="width: 100%; height: auto; object-fit: contain;">
+                            <div class="card-body">
+                                <h5 class="card-title">Kunjungan Edukasi ke Museum</h5>
+                                <small class="text-muted">📅 15 Apr 2025</small>
+                                <p class="card-text">Hingga saat ini, tidak ada catatan resmi mengenai
+                                    agenda kunjungan
+                                    edukasi dari SMK PGRI Wlingi ke Museum Kata (seperti Museum Kata Andrea
+                                    Hirata di
+                                    Belitung), karena kegiatan studi kenal alam dan peninjauan seni sekolah
+                                    tersebut
+                                    biasanya difokuskan ke destinasi budaya dan sejarah regional seperti
+                                    Museum Penataran di
+                                    Blitar, Museum Ullen Sentalu dan pameran ARTJOG di Yogyakarta, serta
+                                    Museum Angkut di
+                                    Malang.</p>
+                            </div>
                         </div>
                     </div>
+
                 </div>
             </div>
 

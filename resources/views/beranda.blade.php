@@ -142,7 +142,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h1>Sambutan Kepala Sekolah</h1>
-                        <img src="https://indonetizen.id/wp-content/uploads/2023/08/136f8584-11c0-449d-b4ad-badbb7bb35c7.jpeg"
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03JwSwdmxNaJ_Y3MDhc9IJo6Mk5jyoI_IeiJCtphFnQ&s=10"
                             width="250" class="float-start me-3 mb-2" alt="...">
                         <b>
                             <h4>Asalamu'alaikum Wr.Wb.</h4>
